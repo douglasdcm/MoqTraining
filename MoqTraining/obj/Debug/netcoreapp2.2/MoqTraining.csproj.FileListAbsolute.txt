@@ -1,0 +1,11 @@
+C:\Users\Douglas\source\repos\MoqTraining\MoqTraining\bin\Debug\netcoreapp2.2\MoqTraining.deps.json
+C:\Users\Douglas\source\repos\MoqTraining\MoqTraining\bin\Debug\netcoreapp2.2\MoqTraining.runtimeconfig.json
+C:\Users\Douglas\source\repos\MoqTraining\MoqTraining\bin\Debug\netcoreapp2.2\MoqTraining.runtimeconfig.dev.json
+C:\Users\Douglas\source\repos\MoqTraining\MoqTraining\bin\Debug\netcoreapp2.2\MoqTraining.dll
+C:\Users\Douglas\source\repos\MoqTraining\MoqTraining\bin\Debug\netcoreapp2.2\MoqTraining.pdb
+C:\Users\Douglas\source\repos\MoqTraining\MoqTraining\obj\Debug\netcoreapp2.2\MoqTraining.csprojAssemblyReference.cache
+C:\Users\Douglas\source\repos\MoqTraining\MoqTraining\obj\Debug\netcoreapp2.2\MoqTraining.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\source\repos\MoqTraining\MoqTraining\obj\Debug\netcoreapp2.2\MoqTraining.AssemblyInfoInputs.cache
+C:\Users\Douglas\source\repos\MoqTraining\MoqTraining\obj\Debug\netcoreapp2.2\MoqTraining.AssemblyInfo.cs
+C:\Users\Douglas\source\repos\MoqTraining\MoqTraining\obj\Debug\netcoreapp2.2\MoqTraining.dll
+C:\Users\Douglas\source\repos\MoqTraining\MoqTraining\obj\Debug\netcoreapp2.2\MoqTraining.pdb

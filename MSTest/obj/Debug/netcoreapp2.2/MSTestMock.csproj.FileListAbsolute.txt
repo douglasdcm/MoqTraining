@@ -1,0 +1,17 @@
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\bin\Debug\netcoreapp2.2\MSTestMock.deps.json
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\bin\Debug\netcoreapp2.2\MSTestMock.runtimeconfig.json
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\bin\Debug\netcoreapp2.2\MSTestMock.runtimeconfig.dev.json
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\bin\Debug\netcoreapp2.2\MSTestMock.dll
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\bin\Debug\netcoreapp2.2\MSTestMock.pdb
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\bin\Debug\netcoreapp2.2\MoqTraining.dll
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\bin\Debug\netcoreapp2.2\MoqTraining.pdb
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\obj\Debug\netcoreapp2.2\MSTestMock.csprojAssemblyReference.cache
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\obj\Debug\netcoreapp2.2\MSTestMock.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\obj\Debug\netcoreapp2.2\MSTestMock.AssemblyInfoInputs.cache
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\obj\Debug\netcoreapp2.2\MSTestMock.AssemblyInfo.cs
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\obj\Debug\netcoreapp2.2\MSTestMock.csproj.CopyComplete
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\obj\Debug\netcoreapp2.2\MSTestMock.dll
+C:\Users\Douglas\source\repos\MoqTraining\MSTest\obj\Debug\netcoreapp2.2\MSTestMock.pdb
